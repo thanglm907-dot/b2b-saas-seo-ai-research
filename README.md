@@ -46,6 +46,6 @@ research/
 
 - [x] Repository structure created
 - [x] 10 experts identified and documented in `sources.md`
-- [ ] YouTube transcripts collected
-- [ ] LinkedIn posts collected
+- [x] YouTube transcripts collected
+- [x] LinkedIn posts collected
 - [ ] Final analysis complete
