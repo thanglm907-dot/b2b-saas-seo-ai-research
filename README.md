@@ -1,4 +1,7 @@
-# 🔍 B2B SaaS SEO AI Research
+# 🔍 # AI-Powered SEO Content Production for B2B SaaS
+
+Research project analyzing how leading SEO practitioners use AI to create, optimize, and scale content for B2B SaaS companies.
+
 
 ## Topic
 **Producing SEO Content Based on Artificial Intelligence**
