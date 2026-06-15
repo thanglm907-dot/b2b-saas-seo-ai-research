@@ -42,6 +42,24 @@ research/
 
 ---
 
+## Key Findings So Far
+
+After analyzing 6 video transcripts and 4 LinkedIn posts from top AI SEO practitioners:
+
+**Finding 1 — AI citations are topic-specific**
+There is no universal list of sources AI trusts. For invoicing queries, competitor domains hold 33.5% of citations. For "starting a business" queries, only 7%. Generic PR campaigns miss entirely.
+
+**Finding 2 — Traditional SEO still matters (for now)**
+Analysis of 500,000+ AI overview citations shows strong correlation with organic rankings. But this overlap is decreasing as AI search matures.
+
+**Finding 3 — Technical access is the foundation**
+AI bots cannot render JavaScript. Many CDNs block AI crawlers by default. Before any content optimization, companies must validate that AI bots can actually access their site (free tool: Microsoft Clarity).
+
+**Finding 4 — Passage-level beats page-level**
+LLMs extract paragraphs, not pages. Each paragraph must be self-contained, one concept, semantically tight. This is the biggest shift from traditional SEO.
+
+**Finding 5 — Measurement is broken**
+Running a prompt once measures volatility, not visibility. Correct method: run each prompt 3-5x, report confidence intervals. Only 2.2% of citations remained consistent across 3 runs of the same prompt.
 ## Progress Log
 
 - [x] Repository structure created
