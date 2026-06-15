@@ -2,6 +2,12 @@
 
 Research project analyzing how leading SEO practitioners use AI to create, optimize, and scale content for B2B SaaS companies.
 
+This project explores how leading SEO practitioners are using AI to improve content production for B2B SaaS companies.
+
+The research focuses on recurring strategies, workflows, optimization techniques, and measurement frameworks shared by experienced operators through LinkedIn posts, YouTube content, and public discussions.
+
+The goal is to identify practical patterns that can later be transformed into a repeatable AI-powered SEO playbook.
+
 
 ## Topic
 **Producing SEO Content Based on Artificial Intelligence**
@@ -27,6 +33,37 @@ research/
 
 └── other/                  # Additional documentation
 ---
+
+## Expert Selection Criteria
+## Research Methodology
+
+This research followed a structured collection and analysis process:
+
+1. Identified active SEO practitioners specializing in AI-assisted content production.
+2. Collected recent LinkedIn posts from each expert.
+3. Gathered YouTube transcripts and publicly available educational content.
+4. Organized materials by expert and content format.
+5. Reviewed recurring themes, workflows, and recommendations.
+6. Synthesized findings into actionable insights for B2B SaaS marketing teams.
+
+The objective was not to collect the highest volume of content, but to identify high-signal insights from experienced practitioners.
+## Tools Used
+
+* Claude Code
+* GitHub
+* YouTube Transcript API
+* Markdown
+* Manual source validation
+* AI-assisted research workflow
+
+Experts were selected using the following criteria:
+
+* Active content creators in SEO and AI-assisted content production
+* Demonstrated real-world SEO experience
+* Consistently publishing educational content during 2025-2026
+* Strong reputation within the SEO industry
+* Relevant insights for B2B SaaS content teams
+* Presence across multiple channels such as LinkedIn and YouTube
 
 ## The 10 Experts
 
@@ -64,6 +101,30 @@ LLMs extract paragraphs, not pages. Each paragraph must be self-contained, one c
 **Finding 5 — Measurement is broken**
 Running a prompt once measures volatility, not visibility. Correct method: run each prompt 3-5x, report confidence intervals. Only 2.2% of citations remained consistent across 3 runs of the same prompt.
 ## Progress Log
+## Key Takeaways
+
+Across the collected expert insights, several patterns consistently emerged:
+
+- AI improves efficiency but does not replace expertise.
+- Authority signals remain critical for ranking success.
+- Human editing is essential for maintaining quality.
+- Technical SEO and content quality work together.
+- Measurement frameworks are still evolving in AI search environments.
+
+These findings suggest that successful AI-powered SEO relies on combining automation with strong editorial processes.
+## Future Playbook
+
+This research will serve as the foundation for a practical AI-Powered SEO Content Production Playbook for B2B SaaS teams.
+
+The future playbook will include:
+
+- AI-assisted content research workflow
+- Content creation and optimization framework
+- Human review and quality control process
+- AI citation and authority-building strategies
+- Performance measurement and reporting methods
+
+The objective is to transform expert insights into a repeatable and scalable content production system.
 
 - [x] Repository structure created
 - [x] 10 experts identified and documented in `sources.md`
