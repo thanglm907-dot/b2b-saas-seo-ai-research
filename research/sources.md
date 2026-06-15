@@ -28,3 +28,13 @@
 | Date | Expert | Content Type | Notes |
 |------|--------|-------------|-------|
 | 2026-06-16 | All | Sources file created | Initial research setup |
+| 2026-06-16 | Kevin Indig | YouTube transcript | SEO in Age of AI (G2 2025) |
+| 2026-06-16 | Kevin Indig | YouTube transcript | Organic Growth 2025 (AirOps) |
+| 2026-06-16 | Aleyda Solis | YouTube transcript | AI Search Optimization Roadmap |
+| 2026-06-16 | Aleyda Solis | YouTube transcript | SEO vs AI Search Comparison |
+| 2026-06-16 | Aleyda Solis | YouTube transcript | How to Prepare for AI Search |
+| 2026-06-16 | Aleyda Solis | YouTube transcript | SEO Reloaded AI World |
+| 2026-06-16 | Kevin Indig | LinkedIn post | AI citations are topic-specific |
+| 2026-06-16 | Kevin Indig | LinkedIn post | Prompt tracking methodology |
+| 2026-06-16 | Aleyda Solis | LinkedIn post | SEOFOMO weekly news June 2026 |
+| 2026-06-16 | Aleyda Solis | LinkedIn post | Microsoft Clarity AI bot monitoring |
